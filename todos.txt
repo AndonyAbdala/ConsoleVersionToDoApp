@@ -1,5 +1,2 @@
-eat
 program
-sleep
-cry
-prepare nails
+read books
